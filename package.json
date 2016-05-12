@@ -1,0 +1,33 @@
+{
+  "name": "docker-names",
+  "version": "1.0.0",
+  "description": "Generates names identical to dockers i.e. [adjective]_[surname]",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bearjaws/docker-names.git"
+  },
+  "keywords": [
+    "docker",
+    "name",
+    "generator",
+    "random",
+    "name"
+  ],
+  "author": "bearjaws",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bearjaws/docker-names/issues"
+  },
+  "homepage": "https://github.com/bearjaws/docker-names#readme",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "2.4.5"
+  }
+}
