@@ -6,7 +6,7 @@ Or as seen from the docker client container list:
 ![Docker container list](http://i.imgur.com/Ws7B38h.png)
 
 
-![Build Status](https://circleci.com/gh/bearjaws/docker-names.png?circle-token=d89f3fd5c89d8f2e12c2fd3f7e759f42e735e5fd "CI Build Status")
+Current Build Status: ![Build Status](https://circleci.com/gh/bearjaws/docker-names.png?circle-token=d89f3fd5c89d8f2e12c2fd3f7e759f42e735e5fd "CI Build Status")
 
 ### Usage
 
