@@ -1363,7 +1363,7 @@ function DockerNames() {
         // Emmett Brown invented time travel. https://en.wikipedia.org/wiki/Emmett_Brown (thanks Brian Goff)
         "brown",
 
-        // Georg Cantor German mathematician. He invented set theory - https://en.wikipedia.org/wiki/Georg_Cantor
+        // Georg Cantor German mathematician inventer of set theory - https://en.wikipedia.org/wiki/Georg_Cantor
         "cantor",
 
         // Rachel Carson - American marine biologist and conservationist, her book Silent Spring and other writings are credited with advancing the global environmental movement. https://en.wikipedia.org/wiki/Rachel_Carson
