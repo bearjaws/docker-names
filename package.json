@@ -1,6 +1,6 @@
 {
   "name": "docker-names",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Generates names identical to dockers i.e. [adjective]_[surname]",
   "main": "index.js",
   "directories": {
@@ -28,6 +28,6 @@
   "homepage": "https://github.com/bearjaws/docker-names#readme",
   "devDependencies": {
     "chai": "3.5.0",
-    "mocha": "2.4.5"
+    "mocha": "^5.2.0"
   }
 }
