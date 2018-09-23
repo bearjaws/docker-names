@@ -61,4 +61,11 @@ describe('Docker-Names', function() {
        number = dockerNames.getRandomName(-1).slice(-1);
        expect(isNaN(number)).to.be.true;
    });
+
+   it('should have access to left, right, adjective, surtname properties', function() {
+       expect(dockerNames.right).to.be.an('array');
+       expect(dockerNames.left).to.be.an('array');
+       expect(dockerNames.adjectives).to.be.an('array');
+       expect(dockerNames.surnames).to.be.an('array');
+    })
 });
