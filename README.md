@@ -33,8 +33,8 @@ $ backstabbing_roentgen5
 This module exports the full docker name lists as two arrays.
 ```javascript
 // This contains all adjectives i.e. "left words"
-dockerNames.left = Array('admiring', 'adoring'...);
+dockerNames.adjectives = Array('admiring', 'adoring'...);
 
 // This contains all surnames to use as "right words"
-dockerNames.right = Array('albattani', 'allen' ...);
+dockerNames.surnames = Array('albattani', 'allen' ...);
 ```
