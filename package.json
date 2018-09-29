@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha test"
+    "test": "mocha test/"
   },
   "repository": {
     "type": "git",
@@ -28,6 +28,6 @@
   "homepage": "https://github.com/bearjaws/docker-names#readme",
   "devDependencies": {
     "chai": "3.5.0",
-    "mocha": "^5.2.0"
+    "mocha": "5.2.0"
   }
 }
