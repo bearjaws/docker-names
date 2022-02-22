@@ -1,6 +1,6 @@
 {
   "name": "docker-names",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Generates names identical to dockers i.e. [adjective]_[surname]",
   "main": "index.js",
   "directories": {

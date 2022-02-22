@@ -12,7 +12,7 @@ Current Build Status: ![Build Status](https://circleci.com/gh/bearjaws/docker-na
 
 Usage is very simple as this module only exports one method:
 ```javascript
-var dockerNames = require('docker-names');
+const dockerNames = require('docker-names');
 console.log(dockerNames.getRandomName());
 $ angry_nobel
 ```
