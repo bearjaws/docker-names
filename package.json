@@ -28,6 +28,6 @@
   "homepage": "https://github.com/bearjaws/docker-names#readme",
   "devDependencies": {
     "chai": "3.5.0",
-    "mocha": "9.2.1"
+    "mocha": "^9.2.2"
   }
 }
