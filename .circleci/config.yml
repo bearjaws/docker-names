@@ -2,7 +2,7 @@ version: 2
 jobs:
   test:
     docker:
-    - image: circleci/node:14
+    - image: cimg/node:20
     steps:
     - checkout
     - run: npm i
